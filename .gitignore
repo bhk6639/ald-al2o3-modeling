@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# 문헌 PDF는 저작권이 출판사에 있다. 저장소에 올리지 않는다.
+# 서지정보와 추출 수치는 02_파라미터_조사.md에 남으므로 재현성에는 문제없다.
+문헌/
+*.pdf
+
+# 개인 메모. 저장소에 올리지 않는다.
+04_직무연결.md
