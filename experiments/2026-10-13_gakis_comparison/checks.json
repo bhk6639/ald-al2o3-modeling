@@ -1,0 +1,7 @@
+{
+  "ODE_expm_error": 6.15563156003418e-13,
+  "analytic_branch_error": 1.1102230246251565e-16,
+  "max_balance_error": 2.1042194320308738e-07,
+  "min_fraction": 0.0,
+  "max_last_cycle_change_A": 2.0633595476354495e-10
+}
